@@ -1,0 +1,10 @@
+//Declare duas variaveis e atribua valores booleanos a elas.
+//Use os operadores lógicos AND, OR e Not para realizar operações lógicas entre as variáveis. 
+// Imprima os resultados. Lembrando que os operadores lógicos são: &&, || e !
+
+let bool1 = true;
+let bool2 = false; 
+
+console.log("AND:", bool1 && bool2);
+console.log("OR:", bool1 || bool2);
+console.log("NOT:", !bool1);

@@ -1,0 +1,40 @@
+# 200 Exercícios de JavaScript 💻✨
+
+Este repositório é parte da minha jornada de especialização em **JavaScript**. Aqui, você encontrará a resolução de 200 exercícios que abrangem desde conceitos básicos até intermediários da linguagem.
+
+## 🚀 Objetivo
+
+Desenvolver domínio prático sobre:
+- Variáveis e tipos de dados
+- Estruturas de decisão e repetição
+- Funções e escopo
+- Arrays e objetos
+- Métodos de array
+- Manipulação de strings e números
+- e muito mais...
+
+## 📌 Por que esse projeto?
+
+Estou me aprofundando em JavaScript com foco em vagas de desenvolvimento **frontend/backend** e quero demonstrar minha evolução constante, capacidade de resolver problemas e domínio da base da linguagem.
+
+> “Código limpo, claro e funcional é construído com prática.”
+
+## ✅ Progresso
+
+- [x] Exercícios 001 a 010
+- [ ] Exercícios 011 a 020
+- ...
+- [ ] Exercícios 191 a 200
+
+## 💼 Foco Profissional
+
+Este projeto também serve como portfólio técnico para **vagas júnior ou estágio** na área de desenvolvimento, especialmente com foco em **JavaScript, Node.js e React**.
+
+## 📁 Organização
+
+Cada exercício está em um arquivo `.js` nomeado como `ex001.js`, `ex002.js`, ..., com comentários explicando o raciocínio da solução.
+
+---
+
+🧠 _Aprendizado contínuo é o melhor investimento._
+
